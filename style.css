@@ -468,7 +468,6 @@ html {
               flex-direction: row;
       left: 50%;
       top: 60%;
-      width: 280px;
       -webkit-transform: translateX(-50%);
           -ms-transform: translateX(-50%);
               transform: translateX(-50%); } }
